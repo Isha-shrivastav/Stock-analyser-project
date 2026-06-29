@@ -10,7 +10,7 @@ The project includes:
 - 52-week stock price trend
 - Current Market Price (CMP)
 - 52-week High and Low
-- FY26 Revenue Segment Mix
+- FY26 Revenue Segment Mix 
 - Key business insights
 
 ## 📷 Project Preview
